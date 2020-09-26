@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+trials/
+index_with_button.html
+
+
 # Log file
 *.log
 
